@@ -185,4 +185,4 @@ Through this project, the following concepts were applied:
 
 ## Author
 
-**Dev Patel**
+**Mant Patel**
